@@ -67,6 +67,6 @@ I used 5 algorithms for LinearRegression Class
 
 ### *Rank in Leaderboard*
 Using only Built-in LinearRegression and achieved r2 score of approximately 83%
-I was placed at **4266** position.
+### I was placed at **4266** position.
 
 Code: [Notebook Link](https://www.kaggle.com/shrutykhullar/assign-da1/notebook)
